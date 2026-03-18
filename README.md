@@ -16,7 +16,6 @@ I'm a passionate **Software Engineer/Developer** specializing in building robust
 
 ### ⚙️ Backend
 - Laravel
-- .NET 8 (API Development)
 
 ### 🐳 DevOps & Tools
 - Docker (Containerization & Deployment)
