@@ -1,20 +1,51 @@
 # Hi there, I’m aonoexercist 👋
 
 ## 👨‍💻 About Me
-I'm a passionate **Software Engineer/Developer** specializing in building robust business applications that truly satisfy end-users. My focus is on creating clean, scalable solutions that make a real impact.
+I'm a passionate **Software Engineer/Developer** specializing in building robust, scalable business applications that truly satisfy end-users. I focus on clean architecture, performance, and delivering real-world impact through technology.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Vue.js 2 & 3, Typescript, Javascript, Tailwind CSS, Shadcn
-- **Mobile:** Flutter
-- **Backend:** Laravel
+
+### 🚀 Frontend
+- React, Next.js
+- Vue.js 2 & 3
+- TypeScript, JavaScript
+- Tailwind CSS, Shadcn UI
+
+### 📱 Mobile
+- Flutter
+
+### ⚙️ Backend
+- Laravel
+- .NET 8 (API Development)
+
+### 🐳 DevOps & Tools
+- Docker (Containerization & Deployment)
+- Docker Compose
+- GitHub Actions (CI/CD Automation)
+- Nginx (Reverse Proxy & Production Setup)
+- Git & GitHub
 
 ## 🌟 What I Do Best
-- Architecting and developing business applications with user satisfaction at the core
-- Delivering seamless, responsive, and modern user interfaces
-- Rapid prototyping and scaling applications for production
+- Architecting and developing scalable business applications
+- Building clean, maintainable, and production-ready systems
+- Creating responsive, modern, and user-friendly interfaces
+- Setting up CI/CD pipelines for automated deployment
+- Containerizing applications for consistent environments
+
+## 📈 Currently Exploring
+- Kubernetes (for future scaling)
+- Advanced CI/CD pipelines (zero-downtime deployments)
+- System design for large-scale applications
+
+## 🏅 Certifications & Badges
+- 🎓 Skillsoft Digital Badges  
+  🔗 https://skillsoft.digitalbadges.skillsoft.com/profile/xercissilao128100/wallet
 
 ## 🎸 Fun Fact
-When I’m not coding, you’ll probably find me playing instruments and jamming to my favorite tunes!
+When I’m not coding, you’ll probably find me:
+- 📚 Reading books  
+- 🎮 Playing video games with friends  
+- 🌍 Exploring new places  
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xercis-silao-aa64a2218)
