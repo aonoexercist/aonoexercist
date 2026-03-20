@@ -52,7 +52,6 @@ A full-stack school management system built with modern technologies.
 - ⚙️ CI/CD with GitHub Actions
 - 🐳 Dockerized deployment with Nginx
 
-👉 https://github.com/your-repo-link
 
 ---
 
