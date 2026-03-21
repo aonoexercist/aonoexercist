@@ -23,7 +23,6 @@ I'm a passionate **Software Engineer/Developer** specializing in building robust
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
