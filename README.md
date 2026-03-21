@@ -17,19 +17,34 @@ I'm a passionate **Software Engineer/Developer** specializing in building robust
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-black)
 
 ### ⚙️ Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 
-### 🐳 DevOps & Tools
+### 🧩 ERP
+![Frappe](https://img.shields.io/badge/Frappe_ERP-0089FF)
+
+### 🐳 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-384d54)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+### 📋 Project Management
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana)
 
 ---
 
