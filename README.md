@@ -20,11 +20,11 @@ I'm a passionate **Software Engineer/Developer** specializing in building robust
 ![ShadCN](https://img.shields.io/badge/ShadCN_UI-black)
 
 ### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
