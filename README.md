@@ -20,6 +20,8 @@ I'm a passionate **Software Engineer/Developer** specializing in building robust
 ![ShadCN](https://img.shields.io/badge/ShadCN_UI-black)
 
 ### ⚙️ Backend
+![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
