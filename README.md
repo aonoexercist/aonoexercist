@@ -100,9 +100,11 @@ A full-stack school management system built with modern technologies.
 
 ## 🎸 Fun Fact
 When I’m not coding, you’ll probably find me:
-- 📚 Reading a book  
+- 💪 Working out  
+- 📚 Reading a book
+- 🧑‍🤝‍🧑 Hanging out with friends 
 - 🎮 Playing computer games with friends  
-- 🌍 Exploring new places  
+- ✈️ Traveling locally and internationally  
 
 ---
 
