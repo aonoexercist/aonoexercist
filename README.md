@@ -150,10 +150,15 @@ A project focused on exploring production-oriented backend development using Rus
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://YOUR-STREAK-DOMAIN/?user=aonoexercist&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aonoexercist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonoexercist&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aonoexercist&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
