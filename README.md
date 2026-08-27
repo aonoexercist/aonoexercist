@@ -1,149 +1,216 @@
-# Hi there, I’m aonoexercist 👋
+# 👋 Hey, I'm aonoexercist
 
-![Visitors](https://komarev.com/ghpvc/?username=aonoexercist&color=blue)
+### Software Engineer · Full-Stack Developer · Systems Builder
 
----
+I build **scalable, maintainable business applications** with a strong focus on developer experience, performance, architecture, and real-world usability.
 
-## 👨‍💻 About Me
+I enjoy turning complex requirements into **clean systems, intuitive interfaces, and reliable backend services**.
 
-I'm a passionate **Software Engineer/Developer** specializing in building robust, scalable business applications that truly satisfy end-users. I focus on clean architecture, performance, maintainability, and delivering real-world impact through technology.
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-black)
-
-### ⚙️ Backend
-
-![Axum](https://img.shields.io/badge/Axum-000000?logo=rust)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-
-### 🧩 ERP
-
-![Frappe](https://img.shields.io/badge/Frappe_ERP-0089FF)
-
-### 🐳 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
-
-### 📋 Project Management
-
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE)
-![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aonoexercist&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🌟 What I Do Best
+## 🚀 What I Build
 
-- Architecting and developing scalable business applications
-- Building clean, maintainable, and production-ready systems
-- Creating responsive, modern, and user-friendly interfaces
-- Designing RESTful APIs and backend services
-- Setting up CI/CD pipelines for automated deployment
-- Containerizing applications for consistent environments
+```text
+Frontend       →  React · Next.js · Vue · TypeScript
+Backend        →  Rust · Go · Node.js · Laravel
+Databases      →  PostgreSQL · MySQL · MongoDB · Firebase
+Architecture   →  REST APIs · RBAC · Authentication · System Design
+DevOps         →  Docker · Kubernetes · GitHub Actions · Nginx
+```
+
+I'm particularly interested in building **business and enterprise applications** where maintainability, scalability, security, and usability matter.
+
+---
+
+## 🧰 Tech Stack
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
+
+### 🦀 Backend
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 🗄️ Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🐳 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### 🧩 Tools & Ecosystem
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge\&logo=storybook\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+
+---
+
+## ⭐ What I Do
+
+* 🏗️ Design and build scalable business applications
+* ⚛️ Develop modern frontend applications with React, Next.js, and Vue
+* 🦀 Build backend services with Rust, Go, and Node.js
+* 🔐 Implement authentication, authorization, and role-based access control
+* 🗄️ Design REST APIs and database-backed systems
+* 🐳 Containerize applications with Docker
+* ☸️ Deploy and manage applications with Kubernetes
+* ⚙️ Build CI/CD pipelines with GitHub Actions
+* 🧪 Improve software quality through automated testing
+* 🧹 Refactor legacy systems toward cleaner architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏫 EduSync System
+### 🏫 EduSync
 
-A full-stack school management system built with modern technologies.
+**Full-stack school management platform**
 
-- 🔐 Authentication & role-based access
-- 📊 Faculty dashboard & evaluation system
-- ⚙️ CI/CD with GitHub Actions
-- 🐳 Dockerized deployment with Nginx
+A business application designed to support university workflows such as enrollment, admission, faculty management, evaluation, scheduling, and academic processes.
 
-### 🦀 Rust Axum API
+**Highlights**
 
-A backend API project built while exploring the Rust ecosystem and modern backend architecture.
-
-- 🦀 Rust & Axum
-- 🗄️ PostgreSQL
-- 🧩 SeaORM
-- 🔐 Authentication & authorization
-- 📚 OpenAPI documentation
-- 🧪 API testing
-- 🐳 Dockerized development environment
+* 🔐 Authentication & role-based access control
+* 👨‍🏫 Faculty dashboards
+* 📚 Enrollment & academic workflows
+* 📊 Evaluation systems
+* ⚙️ CI/CD with GitHub Actions
+* 🐳 Dockerized deployment
+* 🌐 Nginx reverse proxy
 
 ---
 
-## 📊 GitHub Stats
+### 🗄️ Document Management & Archiving System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aonoexercist&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+**Enterprise document management platform**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aonoexercist&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+A system focused on digitizing document workflows, archiving, searching, and managing institutional records.
+
+**Highlights**
+
+* 📁 Document management
+* 🔍 Search & retrieval
+* 🤖 AI-assisted document processing
+* 👥 Role-based permissions
+* 🏢 Multi-organization support
+* ⚡ Modern web interface
 
 ---
 
-## 🧠 My Dev Philosophy
+### 🦀 Rust API
 
-- Build for users, not just for code
-- Keep it simple, scalable, and maintainable
-- Write code that is easy for teams to understand and maintain
-- Automate everything with a CI/CD mindset
-- Continuously learn and improve
+**Modern backend architecture with Rust**
+
+A project focused on exploring production-oriented backend development using Rust.
+
+**Stack**
+
+`Rust` · `Axum` · `SeaORM` · `PostgreSQL` · `Docker` · `OpenAPI`
+
+**Focus**
+
+* REST API architecture
+* Authentication & authorization
+* Database migrations
+* API testing
+* OpenAPI documentation
+* Containerized development
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Activity
 
-- 🦀 Building backend services with **Rust & Axum**
-- 🐳 Building scalable systems with **Docker & CI/CD**
-- ☸️ Improving my **Kubernetes** knowledge
-- 🏗️ Improving **system design and backend architecture**
-- 🧪 Improving automated testing and software quality
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aonoexercist&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Engineering Principles
+
+> **Build for people, not just for code.**
+
+* 🎯 Solve the actual problem
+* 🧩 Prefer simple solutions over unnecessary complexity
+* 🏗️ Design systems that can evolve
+* 🧹 Keep code understandable and maintainable
+* 🔐 Treat security as part of the architecture
+* ⚡ Optimize where it actually matters
+* 🤖 Automate repetitive work
+* 📚 Keep learning and improving
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+🦀 Rust & Axum
+🏗️ Backend & System Architecture
+☸️ Kubernetes
+🐳 Containerization & Infrastructure
+🧪 Automated Testing & E2E
+⚙️ CI/CD & Developer Experience
+🤖 AI-assisted software development
+```
 
 ---
 
 ## 🏅 Certifications & Badges
 
-- 🎓 Skillsoft Digital Badges  
-  🔗 https://skillsoft.digitalbadges.skillsoft.com/profile/xercissilao128100/wallet
+🎓 **Skillsoft Digital Badges**
+
+[View my Skillsoft badges](https://skillsoft.digitalbadges.skillsoft.com/profile/xercissilao128100/wallet)
 
 ---
 
-## 🎸 Fun Fact
+## 🎮 Beyond Code
 
-When I’m not coding, you’ll probably find me:
+When I'm away from the keyboard, you'll probably find me:
 
-- 💪 Working out
-- 📚 Reading a book
-- 🧑‍🤝‍🧑 Hanging out with friends
-- 🎮 Playing computer games with friends
-- ✈️ Traveling locally and internationally
+💪 Working out · 📚 Reading · 🎮 Gaming · 🎹 Learning piano · ✈️ Traveling · 🧑‍🤝‍🧑 Hanging out with friends
 
 ---
 
-## 📫 Let’s Connect!
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xercis-silao-aa64a2218)
+<p align="center">
+  <a href="https://www.linkedin.com/in/xercis-silao-aa64a2218">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aonoexercist">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
-
-> “Building solutions that empower people and businesses, one line of code at a time.”
+<p align="center">
+  <i>"Building solutions that empower people and businesses, one line of code at a time."</i>
+</p>
