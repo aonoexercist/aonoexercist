@@ -149,9 +149,7 @@ A project focused on exploring production-oriented backend development using Rus
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aonoexercist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-</p>
+<p align="center"></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aonoexercist&theme=tokyonight&hide_border=true" />
