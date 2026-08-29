@@ -1,4 +1,4 @@
-# 👋 Hey, I'm aonoexercist
+# 👋 Hey, I'm Xercis Silao
 
 ### Software Engineer · Full-Stack Developer · Systems Builder
 
@@ -198,7 +198,7 @@ A project focused on exploring production-oriented backend development using Rus
 
 When I'm away from the keyboard, you'll probably find me:
 
-💪 Working out · 📚 Reading · 🎮 Gaming · 🎹 Learning piano · ✈️ Traveling · 🧑‍🤝‍🧑 Hanging out with friends
+💪 Working out · 📚 Reading · 🎮 Gaming · 🧠 Learning & experimenting with new technologies· ✈️ Traveling · 🧑‍🤝‍🧑 Hanging out with friends
 
 ---
 
